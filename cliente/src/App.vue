@@ -1,7 +1,15 @@
 <template>
   <div id="appComponente">
-    <nav>
-      <h1>La Ruta</h1>
+    <nav id="barraTitulo">
+      <img id="imgCabecera" src="./assets/imgs/cabecera.jpg" alt="Cabecera">
+      <h1 id="txtCabecera">La Ruta</h1>
+    </nav>
+    <nav id="barraNavegacionPpal">
+      <button class="botonMenuPpal">Administración</button>
+      <button class="botonMenuPpal">Restaurante</button>
+      <button class="botonMenuPpal">Bar</button>
+      <button class="botonMenuPpal">Billar</button>
+      <button class="botonMenuPpal">Posada</button>
     </nav>
     <div>
       <listadoProductos/>
@@ -20,4 +28,4 @@ export default {
 }
 </script>
 
-<style scoped></style>
+<style></style>
