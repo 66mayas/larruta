@@ -1,5 +1,7 @@
 <template>
-  <div></div>
+  <div>
+    <p>Administración</p>
+  </div>
 </template>
 
 <script>

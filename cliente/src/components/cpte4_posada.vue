@@ -1,5 +1,7 @@
 <template>
-  <div></div>
+  <div>
+    <p>Posada</p>
+  </div>
 </template>
 
 <script>

@@ -1,5 +1,7 @@
 <template>
-  <div></div>
+  <div>
+    <p>Restaurante</p>
+  </div>
 </template>
 
 <script>
